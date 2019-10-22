@@ -1,9 +1,9 @@
 #
-dist/
 debug/
 node_modules/
 tmp/
 npm-debug.log
+.DS_Store
 
 # lock files
 package-lock.json
